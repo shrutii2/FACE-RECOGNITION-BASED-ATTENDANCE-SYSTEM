@@ -1,2 +1,3 @@
-# FACE-RECOGNITION-BASED-ATTENDANCE-SYSTEM
-This system captures the faces from the WebCam and is able to record the attendance of class and save it to attendance.csv with name , date and time and these can redirect to excel file . 
+# PIZZA DELIVERY APPLICATION USING MERN STACK
+This is basic web application based on MERN Stack means using MongoDB, Express, ReactJS and NodeJS. 
+It is a web application for pizza delivery.
